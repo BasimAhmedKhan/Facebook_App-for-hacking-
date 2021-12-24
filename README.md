@@ -9,4 +9,4 @@ Tip:
     2: Place the python file and the image in the same directory
     3: Enjoy!
 
-IF YOU HAVE ANY CONCERN FEEL FREE TO ASK I WILL ANSWER TO ALL OF YOU!
+IF YOU HAVE ANY CONCERN FEEL FREE TO ASK!
